@@ -1,0 +1,13 @@
+{
+  "name": "ActiveDirectory",
+  "version": "1.0",
+  "author": "Amadeus-SOC",
+  "url": "https://github.com/norgalades/ActiveDirectory",
+  "license": "AGPL-V3",
+  "description": "Query AD to enrich case info",
+  "dataTypeList": ["other"],
+  "baseConfig": "ActiveDirectory",
+  "command": "ActiveDirectory/ActiveDirectory_analyzer.py",
+  "configurationItems": [
+  ]
+}
